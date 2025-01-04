@@ -26,7 +26,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pleasure97&theme=dracula" alt="Profile Details" style="width: 70%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleasure97&layout=compact&theme=dracula" alt="Top Languages" style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pleasure97&layout=compact&theme=dracula" alt="Top Languages" style="width: 30%;">
 </div>
 
 
