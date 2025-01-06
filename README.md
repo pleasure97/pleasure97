@@ -1,3 +1,13 @@
+<p align="center">
+<a href="mailto:conple21@gmail.com">
+    <img src="https://img.shields.io/badge/-GMail-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href="https://huggingface.co/pleasure97">
+    <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat-square&logo=huggingface&logoColor=white">
+</a>
+</p>
+
+
 ## ***Programming Languages & Tools***
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
