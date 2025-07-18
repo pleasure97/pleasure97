@@ -31,6 +31,20 @@
 
 ## ***Projects***
 
+---
+
+### 🎮 Overwatch‑Style Multiplayer FPS in Unreal Engine
+Developing a Multiplayer FPS using Unreal’s ***Gameplay Ability System*** for modular hero powers, ***Multithreaded Animation*** for smooth, high‑frame‑rate visuals, and a ***Dedicated Server*** setup to ensure low‑latency, synchronized multiplayer matches.
+
+![](./assets/overwatch-clone-demo.gif)
+
+---
+
+### 🤖 3D AI Research Re‑implementation
+Reimplementing cutting‑edge 3D generative AI papers end‑to‑end — ***data preprocessing***, ***model training***, and ***fine‑tuning*** — to deepen mastery of each step in the 3D AI pipeline.
+
+![](./assets/3d-ai-demo.gif)
+
 
 ## ***GitHub Stats***
 
